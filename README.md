@@ -2,12 +2,14 @@
 
 Sou desenvolvedor júnior nas linguagens .NET | Angular.
 
-## 📧 Para entrar em contato:
+📧 Me encontre em outro lugar:
 <p align="left">
     <a href="https://www.linkedin.com/in/renanranzani/"><img src="svg/linkedin.svg" alt="WEB" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
-## 🛠 Tecnologias
+---
+
+🛠 Tecnologias
 <p align="center">
     <img src="svg/angular.svg" alt="Angular" style="vertical-align:top margin:6px 4px">
     <img src="svg/csharp_dotnet.svg" alt="DotNet" style="vertical-align:top margin:6px 4px">
@@ -18,7 +20,7 @@ Sou desenvolvedor júnior nas linguagens .NET | Angular.
 
 ---
 
-## 💻 Plataformas...
+💻 Plataformas...
 <p align="center">
     <img src="svg/web.svg" alt="WEB" style="vertical-align:top margin:6px 4px">
     <img src="svg/desktop.svg" alt="Desktop" style="vertical-align:top margin:6px 4px">
