@@ -4,7 +4,7 @@ Sou desenvolvedor júnior nas linguagens .NET | Angular.
 
 📧 Me encontre em outro lugar:
 <p align="left">
-    <a href="https://www.linkedin.com/in/renanranzani/"><img src="svg/linkedin.svg" alt="WEB" style="vertical-align:top margin:6px 4px"></a>
+    <a href="https://www.linkedin.com/in/renanranzani/" target="_blank"><img src="svg/linkedin.svg" alt="WEB" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
 ---
