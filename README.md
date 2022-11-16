@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou desenvolvedor júnior nas linguagens .NET | Angular.
+Olá sou desenvolvedor nas linguagens .NET | Angular.
 
 📧 Me encontre em outro lugar:
 <p align="left">
